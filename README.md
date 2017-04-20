@@ -1,4 +1,7 @@
-# test coverage for  [strongloop (v6.0.3)](http://www.strongloop.com)  [![npm package](https://img.shields.io/npm/v/npmtest-strongloop.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-strongloop) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-strongloop.svg)](https://travis-ci.org/npmtest/node-npmtest-strongloop)
+# npmtest-strongloop
+
+#### basic test coverage for  [strongloop (v6.0.3)](http://www.strongloop.com)  [![npm package](https://img.shields.io/npm/v/npmtest-strongloop.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-strongloop) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-strongloop.svg)](https://travis-ci.org/npmtest/node-npmtest-strongloop)
+
 #### StrongLoop Command Line Tools
 
 [![NPM](https://nodei.co/npm/strongloop.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/strongloop)
