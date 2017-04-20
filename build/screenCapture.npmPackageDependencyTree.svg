@@ -1,7 +1,7 @@
 <svg height="23374" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="23374" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">357 megabytes installed</tspan>
+<tspan x="10" y="26">356 megabytes installed</tspan>
 <tspan x="10" y="42"></tspan>
 <tspan x="10" y="58">node_modules</tspan>
 <tspan x="10" y="74">└─┬ strongloop@6.0.3 </tspan>
@@ -424,7 +424,7 @@
 <tspan x="10" y="6746">  │ │ ├─┬ run-async@2.3.0 </tspan>
 <tspan x="10" y="6762">  │ │ │ └── is-promise@2.1.0 </tspan>
 <tspan x="10" y="6778">  │ │ ├─┬ shelljs@0.7.7 </tspan>
-<tspan x="10" y="6794">  │ │ │ ├── interpret@1.0.2 </tspan>
+<tspan x="10" y="6794">  │ │ │ ├── interpret@1.0.3 </tspan>
 <tspan x="10" y="6810">  │ │ │ └── rechoir@0.6.2 </tspan>
 <tspan x="10" y="6826">  │ │ ├── through2@2.0.3 </tspan>
 <tspan x="10" y="6842">  │ │ ├── underscore.string@3.3.4 </tspan>
@@ -489,7 +489,7 @@
 <tspan x="10" y="7786">  │ ├── mkdirp@0.3.5 </tspan>
 <tspan x="10" y="7802">  │ └── ycssmin@1.0.1 </tspan>
 <tspan x="10" y="7818">  ├── lodash@3.10.1 </tspan>
-<tspan x="10" y="7834">  ├─┬ loopback@2.38.2 </tspan>
+<tspan x="10" y="7834">  ├─┬ loopback@2.38.3 </tspan>
 <tspan x="10" y="7850">  │ ├─┬ async@2.3.0 </tspan>
 <tspan x="10" y="7866">  │ │ └── lodash@4.17.4 </tspan>
 <tspan x="10" y="7882">  │ ├── bcryptjs@2.4.3 </tspan>
